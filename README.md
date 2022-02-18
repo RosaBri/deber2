@@ -1,2 +1,2 @@
-# deber2
-T5_Mapa de Ciencia
+## Deber 2 de bioinformatica mapa de ciencia G01
+### Nombre: Rosa Briñoles
