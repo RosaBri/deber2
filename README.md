@@ -1,7 +1,8 @@
 ## Deber 2 de bioinformatica mapa de ciencia G01
 ### Nombre: Rosa Briñoles
 #### T5_Mapa de Ciencia
-#### Basado en las sesiones de Visualización de datos y Expresiones resulares. Realice una adaptación de la solución del MAP OF SCIENCE. #### Se requiere dos adaptaciones para resolver esta actividad:
+#### Basado en las sesiones de Visualización de datos y Expresiones resulares. Realice una adaptación de la solución del MAP OF SCIENCE.
+#### Se requiere dos adaptaciones para resolver esta actividad:
 #### Buscar bibliografía de un tema de interés propio en la Página Web de PubMed,
 #### Realizar el minado de autores por país (en el ejemplo se encuentra realziado por las ciudades de USA). Para asignar las ubicación
 #### geográfica de los centroides de cada país (latitud y longitud), utilice la tabla  Ubicación Geográfica de Países - Google Developer. 
